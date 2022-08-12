@@ -1,0 +1,8 @@
+var numbers: Set = [21, 34, 54, 12]
+
+print("Initial Set: \(numbers)")
+
+// using insert method
+numbers.insert(32)
+
+print("Updated Set: \(numbers)") 
